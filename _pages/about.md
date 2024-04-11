@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: #"Welcome"
+title: "Prof. Leandro Almeida"
 author_profile: true
 redirect_from: 
   - /about/
