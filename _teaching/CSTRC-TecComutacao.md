@@ -8,9 +8,6 @@ date: 2024-01-01
 location: "João Pessoa/PB, Brazil"
 ---
 
-Contents
------
-
 - Link layer (Ethernet)
 - Virtual Local Area Network (VLAN)
 - Spanning Tree Protocol (STP)

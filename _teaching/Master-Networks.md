@@ -8,8 +8,6 @@ date: 2024-01-01
 location: "João Pessoa/PB, Brazil"
 ---
 
-Contents
------
 
 - Computer networks foundations
 - Software defined network
