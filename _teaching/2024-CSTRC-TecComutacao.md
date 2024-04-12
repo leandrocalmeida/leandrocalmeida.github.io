@@ -9,7 +9,7 @@ location: "João Pessoa/PB, Brazil"
 ---
 
 Contents
-======
+-----
 
 - Link layer (Ethernet)
 - Virtual Local Area Network (VLAN)
