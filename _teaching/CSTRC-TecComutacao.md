@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-CSTRC-TecComutacao  
 venue: "Federal Institute of Paraiba, CSTRC"
-date: 2024
+date: 2024-01-01
 location: "João Pessoa/PB, Brazil"
 ---
 
