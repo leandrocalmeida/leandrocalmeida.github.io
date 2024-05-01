@@ -12,6 +12,8 @@ author_profile: true
 2024
 ------
 
+- Evaluating L4S Framework Performance with Programmable Data Plane Hardware. ALMEIDA, Leandro C. de; MACIEL JR, Paulo D.; VERDI, Fábio L., Workshop de Gerência e Operação de Redes e Serviços (WGRS/SBRC), Niteroi/RJ - Brazil, 2024.
+
 - TimeGAN as a Simulator for Reinforcement Learning Training in Programmable Data Planes. TAVARES, Thiago C.; ALMEIDA, Leandro C. de; SILVA, Washington R. D.; CHIESA, Marco; VERDI, Fábio L. IEEE/IFIP Network Operations and Management Symposium, Seoul - South Korea, 2024.
 
 - Generation of Synthetic Datasets in the Context of Computer Networks using Generative Adversarial Networks. TAVARES, Thiago C.; ALMEIDA, Leandro C. de; SILVA, Washington R. D.; CASTRO, Ariel Góes; ROTHENBERG, Christian; VERDI, Fábio L. , 10th IEEE International Conference on Network Softwarization (Tutorial), Saint Louis/MO - United States, 2024.
