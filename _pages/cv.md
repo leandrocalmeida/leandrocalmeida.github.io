@@ -21,6 +21,9 @@ Work experience
 * 2011 - *: Adjunct Professor
   * Federal Institute of Paraíba
 
+* 2022 - 2023: Visitant Researcher
+  * University of Amsterdam
+
 * 2009 - 2011: IT Director
   * Prefeitura Municipal de João Pessoa
 
