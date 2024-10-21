@@ -12,6 +12,8 @@ author_profile: true
 2024
 ------
 
+- Lightweight INT on the Tofino programmable switch. DIMOGLIS, Angelos; ALMEIDA, Leandro C. de; PAPADOPOULOS, Konstatinos; PAPAGIANNI, Chrysa; PAPADIMITRIOU, Panagiotis; GROSSO, Paola. Workshop on 6G Programmable Deterministic Networking with AI (6GPDN), Washington/D.C. - USA, 2024.
+
 - Evaluating L4S Framework Performance with Programmable Data Plane Hardware. ALMEIDA, Leandro C. de; MACIEL JR, Paulo D.; VERDI, Fábio L., Workshop de Gerência e Operação de Redes e Serviços (WGRS/SBRC), Niteroi/RJ - Brazil, 2024.
 
 - TimeGAN as a Simulator for Reinforcement Learning Training in Programmable Data Planes. TAVARES, Thiago C.; ALMEIDA, Leandro C. de; SILVA, Washington R. D.; CHIESA, Marco; VERDI, Fábio L. IEEE/IFIP Network Operations and Management Symposium, Seoul - South Korea, 2024.
