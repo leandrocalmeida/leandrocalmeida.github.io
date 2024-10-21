@@ -12,6 +12,10 @@ author_profile: true
 2024
 ------
 
+- (DEMO)Enabling Private 5G Experimentation with Network Programmability and Infrastructure as Code. LIRA, Rodrigo; MONTEIRO, Lucas; SIMÃO, Vinicius; ALMEIDA, Leandro C. de; GOMES, Ruan; NETO, Otacílio; MACIEL JR, Paulo D. IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Natal/RN. - Brazil, 2024.
+
+- L4S in Private 5G Industrial Networks: A Case Study for Real-Time Video Transmission in Programmable Networks. MONTEIRO, Lucas; SIMÃO, Vinicius; LIRA, Rodrigo; ALMEIDA, Leandro C. de; GOMES, Ruan; MACIEL JR, Paulo D. IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), Natal/RN. - Brazil, 2024.
+
 - Lightweight INT on the Tofino programmable switch. DIMOGLIS, Angelos; ALMEIDA, Leandro C. de; PAPADOPOULOS, Konstatinos; PAPAGIANNI, Chrysa; PAPADIMITRIOU, Panagiotis; GROSSO, Paola. Workshop on 6G Programmable Deterministic Networking with AI (6GPDN), Washington/D.C. - USA, 2024.
 
 - Evaluating L4S Framework Performance with Programmable Data Plane Hardware. ALMEIDA, Leandro C. de; MACIEL JR, Paulo D.; VERDI, Fábio L., Workshop de Gerência e Operação de Redes e Serviços (WGRS/SBRC), Niteroi/RJ - Brazil, 2024.
