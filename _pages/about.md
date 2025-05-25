@@ -14,3 +14,7 @@ Research Interests
 ------
 My current research interests are computer network, network security, in-networking machine learning, software-defined networking, and data plane programmability. 
 
+Professional Activities
+------
+- TPC Co-Chair of the XXX WGRS 2025 (Workshop de Gerência e Operação de Redes e Serviços)
+
