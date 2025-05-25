@@ -9,6 +9,17 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+2025
+------
+
+- Explorando o overhead de telemetria em redes programáveis na estimativa de QoS com aprendizado de máquina. Rebeca Dantas Cabral, Gabriel Santos de Andrade, Luis Kilmer da Silva Bernardo, Pedro Batista de Carvalho Filho, Leandro C de Almeida, Fábio L Verdi. SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS, Natal/RN - Brazil, 2025.
+
+- A New WAVE: Exploring New Load Pattern Models for Experimentation in Computer Networks. Danilo Cavalcante Beuttenmuller, Matheus Faelson de Almeida Valério, Caio Luiz L. T. Silva, Icaro M. da Silva, Paulo Ditarso Maciel Jr., Leandro C. de Almeida. SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS, Natal/RN - Brazil, 2025 (Salão de Ferramentas).
+
+- Um Mecanismo de Controle em Redes Programáveis Baseado em Telemetria para Aplicações Sensíveis à Latência. Vinícius Silva Simão, Rodrigo Lira, Lucas Vieira Monteiro, Paulo Ditarso Maciel Jr., Ruan Gomes, Leandro C. de Almeida. XVI Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF 2025), Natal/RN - Brazil
+
+
+
 2024
 ------
 
