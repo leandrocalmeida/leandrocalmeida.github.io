@@ -11,6 +11,10 @@ author_profile: true
 
 2025
 ------
+
+
+- <a href="{{https://opendl.ifip-tc6.org/db/conf/cnsm/cnsm2025/1571185052.pdf}}">Zero-Lag Smart Pipes for Smart Factories: AI-Driven Programmable Transport in Open RAN</a>. Flávio Rocha, Kleber Cardoso, Murillo Melo, Jonathas dos Santos, Lorenzo Chiachio, Vlademir Brusse, Fábio Verdi, Leandro Almeida, Cristiano Both, Andre Cavalcante, Maria Marquezini, Pedro Henrique Gomes.  IEEE CNSM, Demo Session, 2025.
+
 - Closed-Loop Network Control for Industrial Edge Computing: A Telemetry-Driven and AI-Based Approach for Latency-Critical Applications in Private 5G. V. S. Simão, L. V. Monteiro, R. D. Gomes, L. C. de Almeida and P. D. Maciel Jr. in IEEE Networking Letters, doi: 10.1109/LNET.2025.3608076.
 
 - Explorando o overhead de telemetria em redes programáveis na estimativa de QoS com aprendizado de máquina. Rebeca Dantas Cabral, Gabriel Santos de Andrade, Luis Kilmer da Silva Bernardo, Pedro Batista de Carvalho Filho, Leandro C de Almeida, Fábio L Verdi. SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS, Natal/RN - Brazil, 2025.
