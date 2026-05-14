@@ -12,7 +12,7 @@ author_profile: true
 2026
 ------
 
-- L. C. de Almeida, P. Ditarso Maciel, R. Pasquini, C. Papagianni and F. L. Verdi, "iRED: A Disaggregated P4-AQM Fully Implemented in Programmable Data Plane Hardware," in IEEE Transactions on Networking, vol. 34, pp. 3091-3107, 2026, [doi: 10.1109/TON.2026.3651911].
+- L. C. de Almeida, P. Ditarso Maciel, R. Pasquini, C. Papagianni and F. L. Verdi, "iRED: A Disaggregated P4-AQM Fully Implemented in Programmable Data Plane Hardware," in IEEE Transactions on Networking, vol. 34, pp. 3091-3107, 2026, doi: 10.1109/TON.2026.3651911.
 
 - Rafael Silva, João Paulo Esper, Leandro Almeida, Fábio Verdi, and Kleber Cardoso. 2026. C2N: Bridging CAMARA Service APIs and 3GPP Core Network Exposure Function. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, maio 25, 2026, Praia do Forte/BA, Brasil. SBC, Porto Alegre, Brasil, 379-392. DOI: https://doi.org/10.5753/sbrc.2026.19273.
 
