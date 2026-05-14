@@ -16,5 +16,11 @@ My current research interests are computer network, network security, in-network
 
 Professional Activities
 ------
+- Member of TPC of the XXXI WGRS 2026 (Workshop de Gerência e Operação de Redes e Serviços)
+- Member of TPC of the I WIARC 2026 (Workshop de Inteligência Artificial para Redes de Computadores)
+- Reviewer of the IEEE Transactions on Network and Service Management (TNSM)
+- Reviewer of the Elsevier Computer Networks
+- Reviewer of the Elsevier Computer Communications
 - TPC Co-Chair of the XXX WGRS 2025 (Workshop de Gerência e Operação de Redes e Serviços)
+
 
