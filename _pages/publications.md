@@ -9,6 +9,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+2026
+------
+
+- L. C. de Almeida, P. Ditarso Maciel, R. Pasquini, C. Papagianni and F. L. Verdi, "iRED: A Disaggregated P4-AQM Fully Implemented in Programmable Data Plane Hardware," in IEEE Transactions on Networking, vol. 34, pp. 3091-3107, 2026, [doi: 10.1109/TON.2026.3651911] (https://ieeexplore.ieee.org/document/11339383).
+
+
+
 2025
 ------
 
