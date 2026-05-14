@@ -12,8 +12,15 @@ author_profile: true
 2026
 ------
 
-- L. C. de Almeida, P. Ditarso Maciel, R. Pasquini, C. Papagianni and F. L. Verdi, "iRED: A Disaggregated P4-AQM Fully Implemented in Programmable Data Plane Hardware," in IEEE Transactions on Networking, vol. 34, pp. 3091-3107, 2026, [doi: 10.1109/TON.2026.3651911] (https://ieeexplore.ieee.org/document/11339383).
+- L. C. de Almeida, P. Ditarso Maciel, R. Pasquini, C. Papagianni and F. L. Verdi, "iRED: A Disaggregated P4-AQM Fully Implemented in Programmable Data Plane Hardware," in IEEE Transactions on Networking, vol. 34, pp. 3091-3107, 2026, [doi: 10.1109/TON.2026.3651911].
 
+- Rafael Silva, João Paulo Esper, Leandro Almeida, Fábio Verdi, and Kleber Cardoso. 2026. C2N: Bridging CAMARA Service APIs and 3GPP Core Network Exposure Function. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, maio 25, 2026, Praia do Forte/BA, Brasil. SBC, Porto Alegre, Brasil, 379-392. DOI: https://doi.org/10.5753/sbrc.2026.19273.
+
+- Caio Luiz Silva, Icaro Silva, Thiago Gouveia, and Leandro Almeida. 2026. Between Packets and Predictions: Analyzing the Overhead of In-Network Machine Learning in Programmable Switches. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, maio 25, 2026, Praia do Forte/BA, Brasil. SBC, Porto Alegre, Brasil, 365-378. DOI: https://doi.org/10.5753/sbrc.2026.19286.
+
+- CHAVES, Rafael C.; CABRAL, Rebeca D.; SILVA, Rafael R.; ESPER, João Paulo; CARDOSO, Kleber V.; ALMEIDA, Leandro C. de; GOMES, Ruan D.; VERDI, Fábio L. 2026. Intento, logo programo: Uma camada de agentes para traduzir prompts em chamadas para a API de operações do núcleo 5G. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, maio 25, 2026, Praia do Forte/BA, Brasil. SBC, Porto Alegre, Brasil, 856-869. DOI: https://doi.org/10.5753/sbrc.2026.19289.
+
+- Lucas Correia, Alireza Shirmarz, Fábio Luciano Verdi, Paulo Maciel Jr., and Leandro Almeida. 2026. When ECN Lies: Unfairness and Exploitation in L4S Architectures. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, maio 25, 2026, Praia do Forte/BA, Brasil. SBC, Porto Alegre, Brasil, 1528-1541. DOI: https://doi.org/10.5753/sbrc.2026.19753.
 
 
 2025
