@@ -21,6 +21,6 @@ Professional Activities
 - Reviewer of the IEEE Transactions on Network and Service Management (TNSM)
 - Reviewer of the Elsevier Computer Networks
 - Reviewer of the Elsevier Computer Communications
-- TPC Co-Chair of the XXX WGRS 2025 (Workshop de Gerência e Operação de Redes e Serviços)
+- General Co-chair of the XXX WGRS 2025 (Workshop de Gerência e Operação de Redes e Serviços)
 
 
