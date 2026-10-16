@@ -16,6 +16,7 @@ My current research interests are computer network, network security, in-network
 
 Professional Activities
 ------
+- Publicity Chair of the 8th EuroP4 2026 (European P4 Workshop)
 - Member of TPC of the XXXI WGRS 2026 (Workshop de Gerência e Operação de Redes e Serviços)
 - Member of TPC of the I WIARC 2026 (Workshop de Inteligência Artificial para Redes de Computadores)
 - Reviewer of the IEEE Transactions on Network and Service Management (TNSM)
