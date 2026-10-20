@@ -12,6 +12,16 @@ author_profile: true
 2026
 ------
 
+- V. Simão, L. Monteiro, P. Alves, R. Gomes, L. Almeida, and P. Maciel Jr.. " Towards Closed-Loop Management in Private 5G Networks with P4/eBPF Telemetry and Reinforcement Learning", in Anais do XXXI Workshop de Gerência e Operação de Redes e Serviços, Praia do Forte/BA, 2026, pp. 183-196, doi: https://doi.org/10.5753/wgrs.2026.23155.
+
+- I. Souza, P. Maciel Jr., and L. Almeida. " The Last WAVE: Integrating with Mininet for More Flexible and Reproducible Network Experiments", in Anais Estendidos do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Praia do Forte/BA, 2026, pp. 165-176, doi: https://doi.org/10.5753/sbrc_estendido.2026.22871.
+
+- J. Galvão, F. Rocha, R. Gomes, and L. Almeida. " Leveraging eBPF/XDP for Real-Time Machine Learning Traffic Classification in 5G User Plane Networks", in Anais do I Workshop de Inteligência Artificial para Redes de Computadores, Praia do Forte/BA, 2026, pp. 99-112, doi: https://doi.org/10.5753/wiarc.2026.23145.
+
+- I. Silva, C. Silva, T. Gouveia, and L. Almeida. " Da Teoria à Implantação: Um Framework Metodológico para In-Network Machine Learning em Redes Programáveis", in Anais do I Workshop de Inteligência Artificial para Redes de Computadores, Praia do Forte/BA, 2026, pp. 57-70, doi: https://doi.org/10.5753/wiarc.2026.23595.
+
+- L. Correia, J. Silva, J. Floriano, L. Almeida, and P. Maciel Jr. " Detecção de Ataques ECN Não-Responsivos em Arquiteturas L4S por Meio de Aprendizado Supervisionado", in Anais do I Workshop de Inteligência Artificial para Redes de Computadores, Praia do Forte/BA, 2026, pp. 71-84, doi: https://doi.org/10.5753/wiarc.2026.23607.
+
 - L. C. de Almeida, P. Ditarso Maciel, R. Pasquini, C. Papagianni and F. L. Verdi, "iRED: A Disaggregated P4-AQM Fully Implemented in Programmable Data Plane Hardware," in IEEE Transactions on Networking, vol. 34, pp. 3091-3107, 2026, doi: 10.1109/TON.2026.3651911.
 
 - Rafael Silva, João Paulo Esper, Leandro Almeida, Fábio Verdi, and Kleber Cardoso. 2026. C2N: Bridging CAMARA Service APIs and 3GPP Core Network Exposure Function. In Anais do XLIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, maio 25, 2026, Praia do Forte/BA, Brasil. SBC, Porto Alegre, Brasil, 379-392. DOI: https://doi.org/10.5753/sbrc.2026.19273.
